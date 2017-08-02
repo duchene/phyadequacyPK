@@ -1,4 +1,4 @@
-![software logo](figures/phylomadr.pdf)
+![software logo](figures/phylomadr.png)
 
 
 ## Introduction
